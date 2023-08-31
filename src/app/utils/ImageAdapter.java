@@ -1,6 +1,5 @@
 package app.utils;
 
-import app.utils.FileExtension;
 import app.viewers.AdvancedImageViewer;
 import app.viewers.ImageViewer;
 import app.viewers.PngViewer;
